@@ -1,47 +1,84 @@
-# 👋 Hey there! I'm Malhar Vhatkar
+<div align="center">
+  <img height="150" src="https://media-hosting.imagekit.io/67ecf30d48df4b28/Untitled design (1).png?Expires=1841746822&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=OVebi-QFbG9VvXNAk7E5s6HcuM0QXbgnAmF3yI-l4lVKqBOy2xhenIM~NZci9fWSzqp0C0LoyYfYNytBJhfNRmOj4Nz76Ejty8vgSTThRFo7je-p6cD-vKx1rNJlX3Hs4JrGCU0rxgHCiC2ha-qRGZOGkyyabbXexG2dmLPhpxVAqOaTHgsCX90TAh8t~75hLEK~oGvdihSQefZW4ntAucr3L9OjtapxIDV7lHFOPZzqih2GNPZJZfD9M9rXCLU0HWElIh964k5wDXlxUkUtHWGuH~VgaOJV2OpoXFnnTO1Pn4RqlWIUM7UjJUKA3heg1mhOTDcdkunx99smJKe53g__"  />
+</div>
 
-🎓 3rd Year | B.E. CSE @ TIET Patiala  
-📍 Chandigarh | 🧠 ML + 🕸️ Web Dev Enthusiast
+###
 
----
+<h1 align="center">Malhar V.</h1>
 
-## 🚀 About Me
+###
 
-I'm a passionate developer who loves building things that live on the internet — from machine learning models to full-stack web applications. I've interned at **CSIO-CSIR Chandigarh**, where I trained in **machine learning and deep learning**, working on real-world problems involving **neural networks**.
+<h3 align="center">Caffeine-Fueled Full Stack Developer</h3>
 
-🔭 Currently exploring:
-- 🧬 **Lung Cancer Detection using ML & Physiological Data**
-- 🌐 **Full-stack Web Projects** (MERN stack)
-- 🧠 **Deep Learning with PyTorch**
+###
 
----
+<div align="center">
+  <img src="https://profile-counter.glitch.me/malhardv/count.svg?"  />
+</div>
 
-## 🛠️ Tech Stack
+###
 
-- 💻 Languages: `Python`, `JavaScript`, `C++`, `C`
-- 🌐 Web: `React.js`, `Node.js`, `Express.js`, `MongoDB`, `Flask`, `HTML`, `CSS`
-- 🔍 ML/DL: `PyTorch`, `scikit-learn`, `Pandas`, `NumPy`, `Matplotlib`
-- 🛢️ DBMS: `MongoDB`, `MySQL`
-- ⚙️ Tools: `Git`, `VSCode`, `Postman`, `Netlify`, `Render`, `Firebase`
+<h6 align="left">- 🧠 Learning:<br>  'Next.js', 'Three.js', and how to resist starting 10 new side projects<br><br>- 🙃 Ask me about:<br>  MERN Stack or how I once fixed a bug by deleting everything and starting over<br><br>- 🧘‍♂️ Trying to:<br>  Make AI not hallucinate, and make Git stop yelling at me</h6>
 
----
+###
 
-## 📌 Projects
+<h3 align="left">🛠 Language and tools</h3>
 
-- 🔄 [Document Converter Tool](https://github.com/MalharVhatkar/document-conv)
-- 🗂️ [Trello Clone](https://github.com/MalharVhatkar/clone-Trello)
-- 🤖 [Gemini AI Chatbot Clone](https://github.com/MalharVhatkar/Gemini-Clone)
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+</div>
 
-## 📫 Reach Out!
+###
 
-- 📧 malharvhatkar@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/malharvhatkar/)  
-- 🧠 [My Portfolio Website](#) *(Coming soon...)*
+<h3 align="left">🔥   My Stats :</h3>
 
----
+###
 
-> "Code, create, repeat – until it becomes second nature."
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=malhardv&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-Thanks for stopping by! ⭐️
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/unsplash/default.svg" width="52" height="40" alt="unsplash logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/malhardv/malhardv/output/snake.svg" alt="Snake animation" />
+
+###
