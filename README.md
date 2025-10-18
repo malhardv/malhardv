@@ -12,10 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/malhardv/count.svg?"  />
-</div>
-
 ###
 
 <h6 align="left">- 🧠 Learning:<br>  'Next.js', 'Three.js', and how to resist starting 10 new side projects<br><br>- 🙃 Ask me about:<br>  MERN Stack or how I once fixed a bug by deleting everything and starting over<br><br>- 🧘‍♂️ Trying to:<br>  Make AI not hallucinate, and make Git stop yelling at me</h6>
